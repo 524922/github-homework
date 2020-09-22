@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) {
 //	    //1-1
-//		System.out.println("Welcom to Java");
+//		System.out.println("Welcome to Java");
 //		//1-2
 //		System.out.println("Programing is fun!");
 //		System.out.println("Fundamental First");
